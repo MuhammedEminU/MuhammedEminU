@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuhammedEminU
+- 👋 Hi, I’m @MuhammedEminUR..
 - 👀 I’m interested in Artificial Intellegence, Machine Learning and datascience
 - 🌱 I’m currently learning graph neural network
 - 💞️ I’m looking to collaborate on ...
